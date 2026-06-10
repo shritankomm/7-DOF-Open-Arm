@@ -49,3 +49,6 @@ Full step-by-step assembly instructions can be found in instructions.md. Follow 
 - VR teleoperation integration
 - Full open-source firmware and control code
 - Complete build instruction guide
+
+## License
+Hardware designs: CERN-OHL-S v2 (or CC BY 4.0)
