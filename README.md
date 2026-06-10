@@ -26,12 +26,12 @@ All parts, links, and pricing can be found in BOM.md
 
 ## Repository Structure
 
-- cad/          - CAD files and screenshots (STL, STEP, Onshape Public Link)
+- CAD/          - CAD files, screenshots, Parts List (STEP/Onshape Public Link)
 - software/     - Software, firmware, and control code (coming soon)
 - docs/      - Build journal entries and progress updates/documentation
 - BOM.md        - Full bill of materials with links and prices
 - instructions.md - Build and assembly instructions (coming soon)
-- pictures.md - pictures of the fully assemblied arm along with more detailed CAD pictures
+- pictures.md - pictures of the fully assembled arm 
 - README.md     - This file
 
 ---
