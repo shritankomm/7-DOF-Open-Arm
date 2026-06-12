@@ -19,7 +19,7 @@ An open-source, fully 3D-printable 7-DOF humanoid robotic arm designed as an acc
 - ROS2 integration - built for compatibility with the broader robotics software ecosystem
 - VR teleoperation - control the arm intuitively through a VR headset
 - Autonomous and agentic control - onboard Raspberry Pi 5 and camera enable independent perception and decision-making
-- Under $1,000 - accessible to students, researchers, and makers without institutional budgets
+- Under $1,000 - accessible to students, researchers, and makers without big budgets
 
 
 ---
